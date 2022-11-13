@@ -3,6 +3,6 @@ using namespace std;
 int main()
 {
     int a=6,b=9;
-    cout<<(a+b);
+    cout<<"The Sum is:"<<(a+b);
     return(0);
 }
